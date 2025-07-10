@@ -19,12 +19,10 @@ npm run dev
 http://localhost:3000
 \`\`\`
 
-## Deploy na Vercel
-
-1. Faça push do código para o GitHub
-2. Conecte o repositório na Vercel
-3. Deploy automático!
-
+## visite o oficial deployado na vercel
+\`\`\`
+https://fut-dos-crias.vercel.app/
+\`\`\`
 ## Funcionalidades
 
 - ⚽ Agendar jogos de futebol
